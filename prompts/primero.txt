@@ -1,0 +1,5 @@
+Necesito crear un prototipo de aplicación de escritorio llamada "Sistema Saludador", con Java y JavaFX. 
+Es una maqueta para mostrarle al cliente cómo se vería el sistema.
+Por ahora quiero solo una ventana con el título "Sistema Saludador" y un botón "Solicitar saludo" 
+que todavía no hace nada. Después iremos agregando más funciones.
+Quiero poder ejecutarla fácilmente en Windows. Al terminar, dime cómo ejecutarla.
