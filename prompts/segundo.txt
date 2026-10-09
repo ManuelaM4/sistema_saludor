@@ -1,0 +1,3 @@
+Ahora, cuando el estudiante haga clic en "Solicitar saludo", el sistema debe pedirle tres datos: 
+nombre, edad y hora (con un selector AM/PM).Muéstralos en un formulario dentro de la misma ventana, 
+con un botón "Aceptar". Por ahora el botón Aceptar todavía no hace nada.
