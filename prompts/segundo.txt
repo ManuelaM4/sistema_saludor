@@ -1,3 +1,17 @@
-Ahora, cuando el estudiante haga clic en "Solicitar saludo", el sistema debe pedirle tres datos: 
-nombre, edad y hora (con un selector AM/PM).Muéstralos en un formulario dentro de la misma ventana, 
-con un botón "Aceptar". Por ahora el botón Aceptar todavía no hace nada.
+Continuemos con el Sistema Saludador. Ahora quiero que el sistema complete todo el 
+caso de uso "Solicitar saludo":
+
+1. El estudiante hace clic en "Solicitar saludo".
+2. El sistema le pide nombre, edad y hora (con un selector AM/PM), en un formulario 
+dentro de la misma ventana, con un botón "Aceptar".
+3. El estudiante ingresa los datos y pulsa "Aceptar".
+4. El sistema saluda al estudiante por su nombre y menciona su edad. 
+Si la hora es AM, el saludo es "Buenos días"; si es PM, "Buenas tardes". 
+Ejemplo: "Buenos días, Ana. Tienes 20 años."
+
+Además:
+- Valida que el espacio del nombre no esté vacío, que la edad sea un número entero 
+y que se haya elegido AM o PM. Si hay un error, muestra un mensaje claro en rojo.
+- Agrega un botón para volver al inicio después del saludo.
+- Dale una apariencia limpia y agradable, porque es un prototipo para mostrarle al cliente.
+
